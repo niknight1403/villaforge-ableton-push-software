@@ -1,0 +1,10 @@
+{
+  "name": "push-controller-software",
+  "version": "1.0.0",
+  "description": "Professional Ableton Push Controller Software",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test tests/*.test.js"
+  },
+  "devDependencies": {}
+}
