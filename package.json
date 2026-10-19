@@ -4,7 +4,8 @@
   "description": "Professional Ableton Push Controller Software",
   "main": "src/index.js",
   "scripts": {
-    "test": "node --test tests/*.test.js"
+    "test": "node --test tests/*.test.js",
+    "build": "node -c src/index.js"
   },
   "devDependencies": {}
 }
