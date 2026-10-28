@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Professional Ableton Push Controller Software",
   "main": "src/index.js",
+  "type": "module",
   "scripts": {
     "test": "node --test tests/*.test.js",
     "build": "node -c src/index.js",
