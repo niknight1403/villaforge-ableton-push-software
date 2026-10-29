@@ -40,4 +40,4 @@ class PerformanceOptimizer {
   }
 }
 
-module.exports = { PerformanceOptimizer };
+export { PerformanceOptimizer };
